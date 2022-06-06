@@ -10,7 +10,7 @@ Open edX Documentation
       Educators <educators/educators_home>
       Course Operators <course_ops/course_ops_home>
       Site Operators <site_ops/site_ops_home>
-      Developers <developers/developers_home>
+      Developers <developers/index>
       Documentators <documentors/doc_home>
 
    ---
@@ -22,7 +22,7 @@ Open edX Documentation
       Educators: Build a Course <educators/quick_starts/build_a_course>
       Course Operators: Run a Course <course_ops/course_ops_quick_start>
       Site Operators: Set up Open edX <site_ops/set_up_quick_start>
-      Developers: Contribute to Open edX <developers/developers_quick_start>
+      Developers: Contribute to Open edX <developers/quickstarts/index>
       Documentors: Update Documentation <documentors/how-tos/update_a_doc_via_github>
 
    ---
@@ -93,12 +93,12 @@ Open edX Documentation
       :maxdepth: 1
       :caption: Software Developers: Enhance the Open edX Platform
 
-      developers/quickstarts/quickstarts_home
-      How-tos <developers/how-tos/how-tos-home>
-      Concepts <developers/concepts/concepts_home>
+      developers/quickstarts/index
+      How-tos <developers/how-tos/index>
+      Concepts <developers/concepts/index>
       Reference <developers/references/references_home>
 
-   .. link-button:: developers/developers_home
+   .. link-button:: developers/index
        :type: ref
        :text: Developers' Home
        :classes: btn-outline-primary btn-block
