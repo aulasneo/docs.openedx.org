@@ -1,6 +1,6 @@
 .. :diataxis-type: how-to
 
-.. _Set the Grace Period:
+.. _Set the Grace Period: test
 
 *************************
 Set the Grace Period
